@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandipsonar8
 - 👀 I’m interested in programming
-- 🌱 I complited BCA
+- 🌱 I'm pursuing MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
