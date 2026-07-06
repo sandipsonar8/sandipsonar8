@@ -4,7 +4,7 @@
 
 **Backend Software Engineer** | Building scalable systems at [Remote Data E-Xchange](https://www.rdxindia.net)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sandipsonar.dev-0070f3?style=for-the-badge)](https://sandipsonar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sandipsonar.dev-0070f3?style=for-the-badge)](https://sandipsonar.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-sandipsonar119512%40gmail.com-EA4335?style=for-the-badge)](mailto:sandipsonar119512@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sandipsonar-0A66C2?style=for-the-badge)](https://linkedin.com/in/sandipnsonar)
 
@@ -93,7 +93,7 @@ I'm open to:
 
 <div align="center">
 
-**📧 [Email me](mailto:sandipsonar119512@gmail.com) | 🌐 [Visit my portfolio](https://sandipsonar.dev)**
+**📧 [Email me](mailto:sandipsonar119512@gmail.com) | 🌐 [Visit my portfolio](https://sandipsonar.vercel.app/)**
 
 </div>
 
