@@ -62,18 +62,6 @@ Real-time computer vision portal for AI-powered object detection and distance tr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandipsonar8&show_icons=true&theme=nord&count_private=true&hide=prs&include_all_commits=true)](https://github.com/sandipsonar8)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsonar8&theme=nord&layout=compact&langs_count=8)](https://github.com/sandipsonar8)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 | Credential | Institution | Year | Score |
